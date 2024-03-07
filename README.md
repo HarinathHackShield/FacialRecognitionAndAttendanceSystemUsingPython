@@ -15,13 +15,13 @@ scikit-learn: A machine learning library for Python, although it appears you're 
 joblib: A set of tools to provide lightweight pipelining in Python, often used for saving and loading machine learning models, but it doesn't appear to be actively used in the shared code snippet.
 
 Install All dependencies:
-pip install Flask
-pip install numpy
-pip install opencv-python
-pip install face_recognition
-pip install pandas
-pip install scikit-learn
-pip install joblib
+//pip install Flask
+//pip install numpy
+//pip install opencv-python
+//pip install face_recognition
+//pip install pandas
+//pip install scikit-learn
+//pip install joblib
 
 SQLite3: Comes pre-installed with Python for database operations.
 
