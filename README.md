@@ -10,10 +10,6 @@ face_recognition: A simple library to recognize faces from Python or from the co
 
 pandas: A library providing high-performance, easy-to-use data structures and data analysis tools.
 
-scikit-learn: A machine learning library for Python, although it appears you're not using its functionalities extensively in the shared code snippet.
-
-joblib: A set of tools to provide lightweight pipelining in Python, often used for saving and loading machine learning models, but it doesn't appear to be actively used in the shared code snippet.
-
 Install All dependencies:
 //pip install Flask
 //pip install numpy
@@ -22,8 +18,6 @@ Install All dependencies:
 //pip install pandas
 //pip install scikit-learn
 //pip install joblib
-
-SQLite3: Comes pre-installed with Python for database operations.
 
 Additionally, you'll need:
 
